@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 def person(name,age,**kw):
     if 'city' in kw:
         pass

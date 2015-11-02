@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 dict1 = {"a" : "apple", "b" : "grape", "c" : "orange", "d" : "banana"}
 print ("initial dict1: %s"%dict1)
 dict2 = sorted(dict1.items(),key=lambda d:d[0])

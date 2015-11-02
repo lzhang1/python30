@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 sample_list = [i for i in range(10)]
 print (sample_list)
 print ("first item: ",sample_list[-len(sample_list)])

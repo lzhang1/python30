@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 age = input("please your age: ")
 age = int(age)
 if age > 20:

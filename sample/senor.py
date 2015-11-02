@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 L = (x*x for x in range(10))
 for n in L:
     print (n)

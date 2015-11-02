@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 import copy
 dict1 = {"a" : "apple", "b" : {"g" : "grape","o" : "orange"}}
 dict2 = copy.deepcopy(dict1)

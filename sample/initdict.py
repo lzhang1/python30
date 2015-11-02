@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 d = dict(name='visaya', age=20)
 print (d)
 c = dict(zip(['name','age'],['visaya',20]))
