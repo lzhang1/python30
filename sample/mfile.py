@@ -3,6 +3,7 @@
 
 import os
 import shutil
+import pdb
 
 sourcedir="/home/rayzhang/python30/sample"
 destdir="/tmp/sample"
